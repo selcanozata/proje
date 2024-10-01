@@ -1,0 +1,1 @@
+84- Kullanıcıdan bir kelime alıp, bu kelimenin uzunluğunu bulan bir Python programı yazın. Örneğin, 'merhaba' için 7 yazmalıdır.

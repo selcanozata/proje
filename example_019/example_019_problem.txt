@@ -1,0 +1,1 @@
+19- Bir listede ortanca sayıyı bulan bir Python programı yazın. Örneğin, [1, 3, 5] için program 3 yazmalı.

@@ -1,0 +1,1 @@
+26- Kullanıcıdan bir sayı alıp, bu sayının 2'nin kuvveti olup olmadığını kontrol eden bir Python programı yazın. Örneğin, 8 için 'evet' yazmalı.

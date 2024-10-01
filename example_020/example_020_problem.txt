@@ -1,0 +1,1 @@
+20- Kullanıcıdan bir metin alıp, bu metindeki her kelimenin ilk harfini büyüten bir Python programı yazın. Örneğin, 'ben python öğreniyorum' için 'Ben Python Öğreniyorum' yazmalı.

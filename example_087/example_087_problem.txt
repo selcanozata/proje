@@ -1,0 +1,1 @@
+87- Kullanıcıdan bir sayı alıp, bu sayıyı tersten yazdıran bir Python programı yazın. Örneğin, 123 için 321 yazmalıdır.

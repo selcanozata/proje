@@ -1,0 +1,1 @@
+9- Bir listede yer alan çift sayıları bulan bir Python programı yazın. Örneğin, liste [1, 2, 3, 4] ise, program [2, 4] yazmalı.

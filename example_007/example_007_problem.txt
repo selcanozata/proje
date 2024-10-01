@@ -1,0 +1,1 @@
+7- Kullanıcıdan bir metin alıp, bu metindeki boşlukları kaldıran bir Python programı yazın. Örneğin, 'Python programı' için program 'Pythonprogramı' yazmalı.

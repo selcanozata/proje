@@ -1,0 +1,1 @@
+29- Bir dizideki sayıları sıfıra kadar azaltan bir Python programı yazın. Örneğin, [3, 2, 1] için [3, 2, 1, 0] yazmalıdır.

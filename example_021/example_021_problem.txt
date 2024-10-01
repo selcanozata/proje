@@ -1,0 +1,1 @@
+21- Bir listede yer alan sayıların toplamını ve ortalamasını bulan bir Python programı yazın. Örneğin, [1, 2, 3] için toplam 6, ortalama 2 yazmalıdır.

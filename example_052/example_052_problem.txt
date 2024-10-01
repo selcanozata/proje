@@ -1,0 +1,1 @@
+52- Kullanıcıdan bir dizi sayı alıp, bu sayılardaki en küçük sayının kaçıncı eleman olduğunu bulan bir Python programı yazın. Örneğin, [1, 3, 2] için 0 yazmalıdır.

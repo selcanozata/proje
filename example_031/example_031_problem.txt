@@ -1,0 +1,1 @@
+31- Bir dizideki çift sayıların toplamını bulan bir Python programı yazın. Örneğin, [1, 2, 3, 4] için 6 yazmalıdır.

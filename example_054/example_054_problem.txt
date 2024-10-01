@@ -1,0 +1,1 @@
+54- Kullanıcıdan bir sayı alıp, bu sayının 3 ile tam bölünüp bölünmediğini kontrol eden bir Python programı yazın. Örneğin, 9 için 'evet' yazmalı.

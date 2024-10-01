@@ -1,0 +1,1 @@
+59- Kullanıcıdan bir metin alıp, bu metindeki tüm sayıları bulup toplayan bir Python programı yazın. Örneğin, 'ben 2 elma, 3 armut aldım' için 5 yazmalıdır.

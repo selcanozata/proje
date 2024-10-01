@@ -1,0 +1,1 @@
+96- Kullanıcıdan bir metin alıp, bu metindeki tüm harfleri küçük harfe çeviren bir Python programı yazın. Örneğin, 'MERHABA' için 'merhaba' yazmalıdır.

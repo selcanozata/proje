@@ -1,0 +1,1 @@
+78- Bir dizideki tüm sayıları bir listeye ekleyen bir Python programı yazın. Örneğin, [1, 2, 3] için [1, 2, 3] yazmalıdır.

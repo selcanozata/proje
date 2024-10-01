@@ -1,0 +1,1 @@
+57- Kullanıcıdan bir dizi alıp, bu dizideki en uzun kelimeyi bulan bir Python programı yazın. Örneğin, ['ben', 'program', 'yazıyorum'] için 'yazıyorum' yazmalıdır.

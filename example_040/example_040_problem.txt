@@ -1,0 +1,1 @@
+40- Kullanıcıdan bir sayı alıp, bu sayının 5 ile tam bölünüp bölünmediğini kontrol eden bir Python programı yazın. Örneğin, 10 için 'evet' yazmalı.

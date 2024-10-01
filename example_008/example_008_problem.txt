@@ -1,0 +1,1 @@
+8- Kullanıcıdan bir sayı alıp, bu sayının faktöriyelini hesaplayan bir Python programı yazın. Örneğin, 5! = 120 olmalıdır.

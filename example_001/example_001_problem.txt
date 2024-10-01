@@ -1,0 +1,1 @@
+1- Kullanıcıdan bir sayı alıp, bu sayının karesini hesaplayan bir Python programı yazın. Örneğin, kullanıcı 4 girerse, program 16 yazmalı.

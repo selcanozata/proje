@@ -1,0 +1,1 @@
+35- Bir dizideki sayıları pozitif hale getiren bir Python programı yazın. Örneğin, [-1, -2, 3] için [1, 2, 3] yazmalıdır.

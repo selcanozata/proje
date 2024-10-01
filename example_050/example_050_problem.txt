@@ -1,0 +1,1 @@
+50- Kullanıcıdan bir metin alıp, bu metindeki tüm kelimeleri ters çeviren bir Python programı yazın. Örneğin, 'ben program yazıyorum' için 'neb margorp muzyoray' yazmalıdır.

@@ -1,0 +1,1 @@
+6- Kullanıcıdan bir sayı alıp, bu sayının asal olup olmadığını kontrol eden bir Python programı yazın. Örneğin, 7 asal bir sayıdır.

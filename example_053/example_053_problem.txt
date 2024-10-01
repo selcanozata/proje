@@ -1,0 +1,1 @@
+53- Bir dizideki tüm elemanları bir listeye ekleyen bir Python programı yazın. Örneğin, [1, 2, 3] için [1, 2, 3] yazmalıdır.

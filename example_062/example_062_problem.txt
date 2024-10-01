@@ -1,0 +1,1 @@
+62- Kullanıcıdan bir metin alıp, bu metindeki tüm sesli harfleri sayan bir Python programı yazın. Örneğin, 'merhaba' için 3 yazmalıdır.

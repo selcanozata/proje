@@ -1,0 +1,1 @@
+38- Kullanıcıdan bir dizi alıp, bu dizideki elemanların kaç kez tekrarlandığını bulan bir Python programı yazın. Örneğin, [1, 1, 2, 3] için 1:2, 2:1, 3:1 yazmalıdır.

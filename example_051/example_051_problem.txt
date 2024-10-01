@@ -1,0 +1,1 @@
+51- Kullanıcıdan bir metin alıp, bu metindeki 'Python' kelimesinin kaç kez geçtiğini bulan bir Python programı yazın. Örneğin, 'Python Python' için 2 yazmalıdır.

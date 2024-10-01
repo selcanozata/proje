@@ -1,0 +1,1 @@
+70- Kullanıcıdan bir metin alıp, bu metindeki tüm 'a' harflerini kaldıran bir Python programı yazın. Örneğin, 'merhaba' için 'merhb' yazmalıdır.

@@ -1,0 +1,1 @@
+10- Kullanıcıdan bir metin alıp, bu metindeki en uzun kelimeyi bulan bir Python programı yazın. Örneğin, 'Ben Python programlıyorum' için program 'programlıyorum' yazmalı.

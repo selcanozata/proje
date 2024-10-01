@@ -1,0 +1,1 @@
+90- Kullanıcıdan bir sayı alıp, bu sayının faktöriyelini hesaplayan bir Python programı yazın. Örneğin, 4! = 24 olmalıdır.

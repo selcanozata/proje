@@ -1,0 +1,1 @@
+55- Kullanıcıdan bir metin alıp, bu metindeki en sık geçen harfi bulan bir Python programı yazın. Örneğin, 'banana' için 'a' yazmalıdır.

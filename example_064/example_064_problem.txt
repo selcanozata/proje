@@ -1,0 +1,1 @@
+64- Bir dizideki tüm elemanları birbirleriyle çarpan bir Python programı yazın. Örneğin, [1, 2, 3] için 6 yazmalıdır.

@@ -1,0 +1,1 @@
+11- Kullanıcıdan bir sayı alıp, o sayının Fibonacci dizisindeki karşılığını bulan bir Python programı yazın. Örneğin, 6. Fibonacci sayısı 8'dir.

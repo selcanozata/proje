@@ -1,0 +1,1 @@
+13- Kullanıcıdan bir metin alıp, bu metni küçük harflere dönüştüren bir Python programı yazın. Örneğin, 'PYTHON' için 'python' yazmalı.

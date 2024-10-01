@@ -1,0 +1,1 @@
+3- Kullanıcıdan bir metin alıp, metindeki sesli harflerin sayısını bulan bir Python programı yazın. Örneğin, 'Python' için program 1 yazmalı.

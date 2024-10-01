@@ -1,0 +1,1 @@
+61- Kullanıcıdan bir kelime alıp, bu kelimenin içinde 'i' harfi olup olmadığını kontrol eden bir Python programı yazın. Örneğin, 'merhaba' için 'yok' yazmalıdır.

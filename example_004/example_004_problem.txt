@@ -1,0 +1,1 @@
+4- Kullanıcıdan bir kelime alıp, bu kelimenin tersini yazdıran bir Python programı yazın. Örneğin, kullanıcı 'yazılım' girerse, program 'mılızay' yazmalı.

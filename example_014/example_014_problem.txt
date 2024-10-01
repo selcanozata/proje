@@ -1,0 +1,1 @@
+14- Kullanıcıdan bir sayı alıp, bu sayının pozitif veya negatif olduğunu kontrol eden bir Python programı yazın. Örneğin, -5 için 'negatif' yazmalı.

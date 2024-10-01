@@ -1,0 +1,1 @@
+69- Bir dizideki tüm sayıları toplayarak yeni bir liste oluşturan bir Python programı yazın. Örneğin, [1, 2, 3] için [1, 3, 6] yazmalıdır.

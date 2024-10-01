@@ -1,0 +1,1 @@
+15- Bir listede yer alan tekil elemanları (bir kez geçen elemanlar) bulan bir Python programı yazın. Örneğin, [1, 2, 2, 3] için program [1, 3] yazmalı.

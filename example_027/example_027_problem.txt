@@ -1,0 +1,1 @@
+27- Bir dizideki tüm elemanların toplamını ve ortalamasını bulan bir Python programı yazın. Örneğin, [1, 2, 3, 4] için toplam 10 ve ortalama 2.5 yazmalıdır.

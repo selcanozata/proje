@@ -1,0 +1,1 @@
+33- Bir dizideki tüm elemanların karelerini hesaplayarak yeni bir liste oluşturan bir Python programı yazın. Örneğin, [1, 2, 3] için [1, 4, 9] yazmalıdır.

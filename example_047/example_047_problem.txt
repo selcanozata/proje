@@ -1,0 +1,1 @@
+47- Kullanıcıdan bir metin alıp, bu metindeki her kelimenin uzunluğunu yazdıran bir Python programı yazın. Örneğin, 'ben program yazıyorum' için 3, 6, 9 yazmalıdır.

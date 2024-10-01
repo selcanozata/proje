@@ -1,0 +1,1 @@
+94- Kullanıcıdan bir metin alıp, bu metindeki en sık geçen kelimeyi bulan bir Python programı yazın. Örneğin, 'ben ben ben' için 'ben' yazmalıdır.

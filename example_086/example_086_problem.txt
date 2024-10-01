@@ -1,0 +1,1 @@
+86- Kullanıcıdan bir sayı alıp, bu sayının 2'nin katı olup olmadığını kontrol eden bir Python programı yazın. Örneğin, 8 için 'evet' yazmalı.

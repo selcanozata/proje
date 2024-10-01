@@ -1,0 +1,1 @@
+60- Kullanıcıdan bir sayı alıp, bu sayının 7 ile tam bölünüp bölünmediğini kontrol eden bir Python programı yazın. Örneğin, 14 için 'evet' yazmalı.

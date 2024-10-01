@@ -1,0 +1,1 @@
+37- Kullanıcıdan bir dizi sayı alıp, bu sayıların ortalamasını hesaplayan bir Python programı yazın. Örneğin, [1, 2, 3] için ortalama 2 yazmalıdır.

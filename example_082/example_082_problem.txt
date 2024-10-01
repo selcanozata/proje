@@ -1,0 +1,1 @@
+82- Kullanıcıdan bir sayı alıp, bu sayının karesini ve küpünü hesaplayan bir Python programı yazın. Örneğin, 2 için 4 ve 8 yazmalıdır.

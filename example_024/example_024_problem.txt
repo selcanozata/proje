@@ -1,0 +1,1 @@
+24- Bir dizideki tüm sayıları bir artan sırada sıralayan bir Python programı yazın. Örneğin, [4, 2, 3, 1] için [1, 2, 3, 4] yazmalıdır.

@@ -1,0 +1,1 @@
+12- Bir listeden belirli bir elemanı çıkaran bir Python programı yazın. Örneğin, [1, 2, 3] listesinden 2'yi çıkardığınızda [1, 3] elde edilmelidir.

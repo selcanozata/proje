@@ -1,0 +1,1 @@
+39- Kullanıcıdan bir metin alıp, bu metindeki sesli harfleri bulan bir Python programı yazın. Örneğin, 'Python' için 'o' yazmalıdır.

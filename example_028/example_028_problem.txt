@@ -1,0 +1,1 @@
+28- Kullanıcıdan bir kelime alıp, bu kelimenin içinde 'a' harfi olup olmadığını kontrol eden bir Python programı yazın. Örneğin, 'ev' için 'yok' yazmalı.

@@ -1,0 +1,1 @@
+66- Kullanıcıdan bir metin alıp, bu metindeki kelimeleri alfabetik sıraya koyan bir Python programı yazın. Örneğin, 'kedi ayı' için 'ayı kedi' yazmalıdır.

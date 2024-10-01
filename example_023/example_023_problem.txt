@@ -1,0 +1,1 @@
+23- Kullanıcıdan iki tarih alıp, bu tarihler arasındaki gün sayısını hesaplayan bir Python programı yazın. Örneğin, 2024-01-01 ile 2024-01-10 arasında 9 gün vardır.

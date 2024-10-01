@@ -1,0 +1,1 @@
+44- Kullanıcıdan bir sayı alıp, bu sayının 10 ile 20 arasında olup olmadığını kontrol eden bir Python programı yazın. Örneğin, 15 için 'evet' yazmalı.

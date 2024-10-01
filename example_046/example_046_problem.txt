@@ -1,0 +1,1 @@
+46- Bir dizideki tüm sayıları 2 katına çıkaran bir Python programı yazın. Örneğin, [1, 2, 3] için [2, 4, 6] yazmalıdır.

@@ -1,0 +1,1 @@
+48- Kullanıcıdan bir metin alıp, bu metindeki büyük harflerin sayısını bulan bir Python programı yazın. Örneğin, 'Ben Program Yazıyorum' için 3 yazmalıdır.

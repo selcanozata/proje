@@ -1,0 +1,1 @@
+5- Bir dizideki elemanları toplayan bir Python programı yazın. Örneğin, dizi [1, 2, 3, 4] ise, program 10 yazmalı.

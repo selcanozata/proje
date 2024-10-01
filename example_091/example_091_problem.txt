@@ -1,0 +1,1 @@
+91- Kullanıcıdan bir metin alıp, bu metindeki harflerin sırasını değiştiren bir Python programı yazın. Örneğin, 'merhaba' için 'baharem' yazmalıdır.

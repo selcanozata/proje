@@ -1,0 +1,1 @@
+30- Kullanıcıdan bir metin alıp, bu metnin tersini yazdıran bir Python programı yazın. Örneğin, 'Merhaba' için 'abahreM' yazmalıdır.

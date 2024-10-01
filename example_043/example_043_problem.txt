@@ -1,0 +1,1 @@
+43- Kullanıcıdan bir metin alıp, bu metindeki her kelimenin son harfini büyük harfle yazdıran bir Python programı yazın. Örneğin, 'ben program yazıyorum' için 'beN prograM yazıyoruM' yazmalıdır.

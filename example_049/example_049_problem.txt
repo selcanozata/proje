@@ -1,0 +1,1 @@
+49- Kullanıcıdan bir sayı alıp, bu sayının 100 ile 200 arasında olup olmadığını kontrol eden bir Python programı yazın. Örneğin, 150 için 'evet' yazmalı.

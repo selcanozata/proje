@@ -1,0 +1,1 @@
+36- Kullanıcıdan bir dizi sayı alıp, bu sayılardaki en küçük ve en büyük sayıyı bulan bir Python programı yazın. Örneğin, [5, 1, 7, 3] için 1 ve 7 yazmalıdır.
